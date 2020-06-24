@@ -504,7 +504,7 @@ def exploit_config(serial_number):
 def exploit():
   print '*** checkm8 exploit by axi0mX ***'
   print '*** modified version by Linus Henze ***'
-  print '*** s5l8965x support by Matthew Pierson ***'
+  print '*** support for iOS14 by YcS_Dev ***'
 
   device = dfu.acquire_device()
   start = time.time()
